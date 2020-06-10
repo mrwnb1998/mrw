@@ -2,7 +2,7 @@ import request from '@/utils/request'
 
 export function login(username, password) {
   return request({
-    url: '/auth/login', //看接口方法中定义的路径url
+    url: '/ucenter/back/auth', //看接口方法中定义的路径url
     method: 'post',
     data: {
       username,
