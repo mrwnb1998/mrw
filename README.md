@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mimall
 
 > A Vue.js project
@@ -28,3 +29,25 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# The Personal learning demo
+
+## 备注
+
+- 按照不同内容文件夹存放不同的 demo
+
+比如：
+
+- HTML
+    - demo1
+    - demo2
+    
+- CSS
+    - demo1
+    - demo2
+    
+- JS
+    - demo1
+    - demo2
+    - xxxx
+>>>>>>> d88ec92473ed2fc4b2830f9d9d3373d9dc0657c1
