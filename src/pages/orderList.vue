@@ -1,11 +1,12 @@
 <template>
   <div>
-    <p>首页</p>
+    <p>orderlist</p>
   </div>
+
 </template>
 <script>
   export default {
-    name: 'index'
+    name: 'order-list'
   }
 
 </script>

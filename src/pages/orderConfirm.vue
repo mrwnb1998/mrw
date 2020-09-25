@@ -1,11 +1,11 @@
 <template>
   <div>
-    <p>首页</p>
+    <p>order-confirm</p>
   </div>
 </template>
 <script>
   export default {
-    name: 'index'
+    name: 'order-confirm'
   }
 
 </script>
